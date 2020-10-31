@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CV Wilda</title>
+</head>
+<body bgcolor="brown" text="black">
+        <h1 align="center">Curriculum vitae</h1>
+        
+<br>
+<h3>DATA DIRI</h3>
+<ul>
+        <li>Nama : Wilda Lulu'atul Maqfiroh</li>
+        <li>Jenis Kelamin : Perempuan</li>
+        <li>Tempat Tnggal Lair : Ngawi, 09 Maret 1999</li>
+        <li>Agama : Islam</li>
+        <li>Dimisili : Jelambar Jakarta Barat</li>
+</ul>
+<hr>
+<br>
+<h3>KONTAK</h3>
+<ul>
+        <li>No.Telepon : 085913142749</li>
+        <li>Email : wildalm99@gmail.com</li>
+</ul>
+<hr>
+<br>
+
+<h3>PENDIDIKAN</h3>
+<ul>
+        <li>SD : SDN Sidokerto 1</li>
+        <li>SMP : SMP Negeri 1 Karangjati</li>
+        <li>SMK : SMK Negeri 1 Kasreman</li>
+</ul>
+<hr>
+
+
+<h3>HOBI</h3>
+<ul>
+        <li>Menyanyi</li>
+        <li>Membaca</li>
+        <li>Menulis Puisi</li>
+        <li>Mengamati</li>
+</ul>
+<hr>
+
+</body>
+</html>`
